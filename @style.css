@@ -144,16 +144,6 @@ website:    http://blankenship.xyz
         font: 400 1.3rem/1.8rem miller-text, serif;
     }
 
-    footer p {
-        color: #65685b;
-        font: italic 400 2.5rem/2.75rem miller-text, serif;
-    }
-
-    footer p:last-of-type {
-        font: normal 700 1rem/1rem futura-pt, sans-serif;
-        margin-top: 1rem;
-    }
-
     div h3 { 
         color: #f3efe4;
         margin: 0 0 2.75rem 0;
@@ -238,6 +228,16 @@ website:    http://blankenship.xyz
 
     footer a { color: #f3efe4; }
 
+    footer p {
+        color: #65685b;
+        font: italic 400 2.5rem/3rem miller-text, serif;
+    }
+
+    footer p:last-of-type {
+        font: normal 700 1rem/1rem futura-pt, sans-serif;
+        margin-top: 1rem;
+        text-transform: uppercase;
+    }
 
 /* WEE SCREENS */
 
