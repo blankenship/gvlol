@@ -310,25 +310,40 @@ section#about p {
 
 /* WEE SCREENS */
 
-        @media (min-width: 801px) and (max-width: 1000px) {
-
-            .quatro {
-                    display: grid;
-                    grid-template-columns: 45% 45%;
-                    grid-column-gap: 10%;
-                }
-
-        }
-
         @media (min-width: 100px) and (max-width: 800px) {
 
-       
+    figure.hero { 
+        border: none 0;
+        margin: 0 auto 2em;
+        width: 100%;
+    }
 
-        .tres,
-        .quatro {
-                display: block;
-                margin: 0 auto;
-                padding: 0;
-            }
+    main h2 { 
+        margin-left: 1em;
+        max-width: 80% 
+    }
+
+    #quilt {
+        background-color: #263030;
+        display: relative;
+        margin: 0 auto;
+        padding: 5em;
+    }
+
+    #quilt img:nth-child(1), 
+    #quilt img:nth-child(2),
+    #quilt img:nth-child(3),
+    #quilt img:nth-child(4) {
+        border: none 0;
+        margin: 0 auto 5em; 
+        width: 100%;
+    }
+
+    .dos {
+        display: relative;      
+        margin: 5rem auto;
+        width: 90%;
+    }
+       
 
         }
