@@ -145,11 +145,20 @@ website:    http://blankenship.xyz
         text-indent: 2em;
     }
 
+    ul#services {
+        color: #ada78e;
+        font: 400 2.5rem/2.75rem miller-text, serif;
+    }
+
+    ul#services li {
+        border-bottom: 1px solid #ada78e;
+        padding-bottom: 2.75rem;
+    }
 
 /* SECTION -- DEM GRIDS */
 
     main {
-        margin: 10rem auto;
+        margin: 4em auto 6em;
         width: 80%;
     }
 
@@ -157,23 +166,9 @@ website:    http://blankenship.xyz
         margin: 0 auto;
     }
 
-    section ul li { display: inline; }
-
     .dos {
         display: grid;
         grid-template-columns: 50% 50%;
-    }
-
-    .tres {
-        display: grid;
-        grid-template-columns: 30% 30% 30%;
-        grid-gap: 5%;
-    }
-
-    .quatro {
-        display: grid;
-        grid-template-columns: 21.25% 21.25% 21.25% 21.25%;
-        grid-gap: 5%;
     }
 
     figure img { 
@@ -185,15 +180,6 @@ website:    http://blankenship.xyz
         border: 2em solid #ada78e;
         margin: 0 auto 2em;
         width: 80%;
-    }
-
-    main {
-        margin: 4em auto 6em;
-    }
-
-    section figcaption { 
-        color: #393939;
-        margin: 0 auto; 
     }
 
     #quilt {
@@ -208,7 +194,7 @@ website:    http://blankenship.xyz
     #quilt img:nth-child(1) { margin-top: 5em; width: 100% }
     #quilt img:nth-child(2) { margin-top: -10em; width: 100% }
     #quilt img:nth-child(3) { margin: -2.5em 0 0 20%; width: 80% }
-    #quilt img:nth-child(4) { width: 100%; }
+    #quilt img:nth-child(4) { width: 80%; }
 
     
 /* WEE SCREENS */
