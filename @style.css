@@ -146,11 +146,12 @@ website:    http://blankenship.xyz
 
     footer p {
         color: #65685b;
-        font: 400 2.5rem/2.75rem miller-text, serif;
+        font: italic 400 2.5rem/2.75rem miller-text, serif;
     }
 
     footer p:last-of-type {
-        font: 700 1rem/1rem futura-pt, sans-serif;
+        font: normal 700 1rem/1rem futura-pt, sans-serif;
+        margin-top: 1rem;
     }
 
     div h3 { 
@@ -232,7 +233,7 @@ website:    http://blankenship.xyz
         background-color: #ada78e;
         color: #65685b;
         text-align: center;
-        padding: 4em 0;
+        padding: 6em 0;
     }
 
     footer a { color: #f3efe4; }
