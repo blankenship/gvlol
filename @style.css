@@ -117,6 +117,13 @@ website:    http://blankenship.xyz
 
     main h2 { max-width: 60% }
 
+    main h2 a {
+        border-bottom: 3px solid #ada78e;
+        color: #fbcd09;
+        font: italic 400 2.5rem/2.75rem miller-text, serif;
+        padding-bottom: 3px;
+    }
+
     h3 {
         color: #384443;
         font: 700 2rem/2rem futura-pt, sans-serif;
