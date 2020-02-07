@@ -174,9 +174,13 @@ website:    http://blankenship.xyz
 
     figure.hero { 
         border: 2em solid #ada78e;
-        box-shadow: 10rem 100rem #65685b;
-        margin: 0 auto 1rem;
+        margin: 0 auto;
         width: 80%;
+    }
+
+    main {
+        background-image: url(https://www.stickpng.com/assets/images/580b585b2edbce24c47b23fa.png);
+        margin: 0 auto;
     }
 
     section figcaption { 
