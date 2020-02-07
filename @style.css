@@ -116,14 +116,14 @@ website:    http://blankenship.xyz
    }
 
     main h2 { 
-        margin-left: 2em;
+        margin-left: 1em;
         max-width: 75% 
     }
 
     main h2 a {
         border-bottom: 3px solid #fbcd09;
         color: #fbcd09;
-        font: 700 2rem/2rem futura-pt, sans-serif;
+        font: 700 1rem/1rem futura-pt, sans-serif;
         padding-bottom: 3px;
         text-transform: uppercase;
     }
@@ -182,7 +182,7 @@ website:    http://blankenship.xyz
 /* SECTION -- DEM GRIDS */
 
     main {
-        margin: 4em auto 6em;
+        margin: 4em auto 8em;
         width: 80%;
     }
 
