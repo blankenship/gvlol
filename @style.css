@@ -72,14 +72,14 @@ website:    http://blankenship.xyz
 /* TYPOGRAPHY */
 
     h1 {
-        color: #fbcd09;
+        color: #f3efe4;
         font: 700 1.5rem/1.5rem futura-pt, sans-serif;
         letter-spacing: 3px;
         text-transform: uppercase;
    }
 
     h1 span {
-        color: #fcee21;
+        color: #fbcd09;
         display: block;
         font: 400 3rem/3rem  maple-web, sans-serif; 
         letter-spacing: 3px;
@@ -141,6 +141,16 @@ website:    http://blankenship.xyz
         margin: 0 auto; 
     }
 
+    #quilt {
+        display: grid;
+        grid-template-columns: 50% 50%;
+    }
+
+    #quilt img:nth-child(1) {}
+    #quilt img:nth-child(2) {}
+    #quilt img:nth-child(3) {}
+    #quilt img:nth-child(4) {}
+    #quilt img:nth-child(5) {}
 
     
 /* WEE SCREENS */
