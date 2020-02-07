@@ -174,7 +174,7 @@ website:    http://blankenship.xyz
 
     figure.hero { 
         border: 2em solid #ada78e;
-        box-shadow: 5px 10px #65685b;
+        box-shadow: 10rem 100rem #65685b;
         margin: 0 auto 1rem;
         width: 80%;
     }
