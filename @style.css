@@ -92,6 +92,10 @@ website:    http://blankenship.xyz
         text-transform: uppercase;
     }
 
+    nav a {
+        color: #ada78e;
+    }
+    
     h2 {
         color: #ada78e;
         font: 400 3rem/3rem miller-text, serif;
