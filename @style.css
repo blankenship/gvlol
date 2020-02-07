@@ -112,14 +112,14 @@ website:    http://blankenship.xyz
 
     h2 {
         color: #ada78e;
-        font: 400 3rem/4rem miller-text, serif;
+        font: 400 3rem/3.7rem miller-text, serif;
    }
 
     h3 {
         color: #384443;
         font: 700 2rem/2rem futura-pt, sans-serif;
         letter-spacing: 2px;
-        margin-left: 4em;
+        margin: 4em 0 0 6em;
         text-transform: uppercase;
    }
 
@@ -184,12 +184,13 @@ website:    http://blankenship.xyz
     #quilt {
         display: grid;
         grid-template-columns: 50% 50%;
+        margin: 0 auto;
     }
 
     #quilt img:nth-child(1) { margin-top: 5rem; width: 80% }
     #quilt img:nth-child(2) { width: 80% }
-    #quilt img:nth-child(3) { margin-top: -5rem; width: 90% }
-    #quilt img:nth-child(4) { width: 60%; }
+    #quilt img:nth-child(3) { margin-top: -5rem; width: 85% }
+    #quilt img:nth-child(4) { margin-top: 5rem; width: 75%; }
 
     
 /* WEE SCREENS */
