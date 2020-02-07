@@ -376,4 +376,20 @@ section#about p {
         width: 90%;
     }
        
+    section#about {
+        padding: 2em;
+    }
+
+    section#about h3 {
+        font: 700 2rem/2rem futura-pt, sans-serif;
+        margin: 1em auto .5em;
+    }
+
+    section#about p {
+        margin: 0 auto 1.4em;
+        width: 90%;
+    }
+
 }
+
+/* -- Fin. -- */
