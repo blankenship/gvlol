@@ -325,7 +325,7 @@ section#about p {
 
     #quilt {
         background-color: #263030;
-        display: relative;
+        display: block;
         margin: 0 auto;
         padding: 5em;
     }
@@ -340,7 +340,7 @@ section#about p {
     }
 
     .dos {
-        display: relative;      
+        display: block;      
         margin: 5rem auto;
         width: 90%;
     }
