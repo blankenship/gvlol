@@ -329,12 +329,12 @@ section#about p {
     }
 
     h2 {
-        font: 400 1.5rem/2rem miller-text, serif;
+        font: 400 1.3rem/1.8rem miller-text, serif;
    }
 
     main {
-        margin: 2em auto 4em;
-        width: 80%;
+        margin: 2em auto;
+        width: 90%;
     }
 
     main h2 { 
@@ -343,7 +343,7 @@ section#about p {
     }
 
     main h2 strong {
-        font: 700 1rem/1rem futura-pt, sans-serif;
+        font: 700 1.1rem/1.8rem futura-pt, sans-serif;
     }
 
     h4 {
