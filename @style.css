@@ -151,6 +151,7 @@ website:    http://blankenship.xyz
         text-align: left; 
     }
 
+    form,
     ul#services {
         color: #ada78e;
         font: 400 2.5rem/2.75rem miller-text, serif;
@@ -162,6 +163,7 @@ website:    http://blankenship.xyz
         padding: 1.5rem 0;
     }
 
+    form,
     ul#services li:first-of-type {
         border-top: 1px solid #384443;
     }
