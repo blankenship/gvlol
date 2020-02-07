@@ -145,7 +145,10 @@ website:    http://blankenship.xyz
         text-indent: 2em;
     }
 
-    div h3 { text-align: left; }
+    div h3 { 
+        margin: 0 0 2.75rem 0;
+        text-align: left; 
+    }
 
     ul#services {
         color: #ada78e;
@@ -160,7 +163,7 @@ website:    http://blankenship.xyz
     ul#services li:first-of-type {
         border-top: 1px solid #ada78e;
     }
-    
+
 /* SECTION -- DEM GRIDS */
 
     main {
