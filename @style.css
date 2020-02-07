@@ -193,6 +193,7 @@ website:    http://blankenship.xyz
         display: grid;
         grid-template-columns: 50% 50%;
         margin: 0 auto;
+        padding: 5em;
     }
 
     #quilt img:nth-child(1) { margin-top: 5rem; width: 80% }
