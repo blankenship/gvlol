@@ -161,6 +161,7 @@ website:    http://blankenship.xyz
         font: 400 2.5rem/2.75rem miller-text, serif;
     }
 
+    form p,
     ul#services li {
         border-bottom: 1px solid #384443;
         padding: 1.5rem 0;
