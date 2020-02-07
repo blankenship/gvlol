@@ -66,7 +66,7 @@ website:    http://blankenship.xyz
     header {
         margin: 0 auto;
         text-align: center;
-        padding: 2em 0;
+        padding: 2em 0 4em;
         width: 80%;
    }
 
@@ -112,7 +112,7 @@ website:    http://blankenship.xyz
 
     h2 {
         color: #ada78e;
-        font: 400 3rem/3.7rem miller-text, serif;
+        font: 400 3rem/3.5rem miller-text, serif;
    }
 
     h3 {
@@ -174,7 +174,7 @@ website:    http://blankenship.xyz
 
     figure.hero { 
         border: 2em solid #ada78e;
-        margin: 0 auto;
+        margin: 0 auto 2em;
         width: 80%;
     }
 
@@ -189,6 +189,7 @@ website:    http://blankenship.xyz
     }
 
     #quilt {
+        background-color: #053052;
         display: grid;
         grid-template-columns: 50% 50%;
         margin: 0 auto;
