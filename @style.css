@@ -184,13 +184,15 @@ website:    http://blankenship.xyz
         font: 700 1.2rem/1.2rem futura-pt, sans-serif;
    }
 
-   input {
+   input,
+   textarea {
         background-color: #f3efe4;
         color: #263030;
         display: block;
         font: 400 1.2rem/1.2rem futura-pt, sans-serif;
         height: 2.75rem;
-        margin-top: 1.2em;
+        margin: 1.2em 0;
+        padding: .5em;
         width: 100%;
    }
 
