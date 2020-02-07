@@ -122,6 +122,8 @@ website:    http://blankenship.xyz
 
     main h2 strong {
         font: 700 1.75rem/1.75rem futura-pt, sans-serif;
+        letter-spacing: 2px;
+        text-transform: uppercase;
     }
 
     main h2 a {
