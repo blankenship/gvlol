@@ -206,6 +206,8 @@ website:    http://blankenship.xyz
 
    button {
         background: #fbcd09;
+        border: none 0;
+        border-radius: 1rem;
         color: #263030;
         font: 700 1rem/1rem futura-pt, sans-serif;
         letter-spacing: 2px;
