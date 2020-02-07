@@ -66,7 +66,7 @@ website:    http://blankenship.xyz
     header {
         margin: 0 auto;
         text-align: center;
-        padding: 2em 0 6em;
+        padding: 0 0 6em;
         width: 100%;
    }
 
@@ -88,18 +88,17 @@ website:    http://blankenship.xyz
 
     nav {
         background: #f3efe4;        
-        border-bottom: 1px solid #ada78e;
         display: block;
         font: 700 1rem/1rem futura-pt, sans-serif;
         letter-spacing: 4px;
         margin-bottom: 6em;
-        padding-bottom: 2em;
+        padding: 2em 0;
         text-align: center;
         text-transform: uppercase;
     }
 
     nav a {
-        color: #ada78e;
+        color: #65685b;
     }
 
     nav a:hover {
