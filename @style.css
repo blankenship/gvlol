@@ -182,7 +182,7 @@ website:    http://blankenship.xyz
     form {
         padding-top: 1.2em;
     }
-    
+
    form p {
         color: #ada78e;
         font: 700 1.2rem/1.2rem futura-pt, sans-serif;
@@ -193,7 +193,7 @@ website:    http://blankenship.xyz
         background-color: #f3efe4;
         color: #263030;
         display: block;
-        font: 400 1.2rem/1.2rem futura-pt, sans-serif;
+        font: 400 .6rem/1.8rem futura-pt, sans-serif;
         height: 2.75rem;
         margin: 1.2em 0;
         padding: .5em;
