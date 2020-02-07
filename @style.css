@@ -332,9 +332,14 @@ section#about p {
         font: 400 1.5rem/2rem miller-text, serif;
    }
 
+    main {
+        margin: 2em auto 4em;
+        width: 80%;
+    }
+
     main h2 { 
         margin: 0 auto;
-        width: 90% 
+        width: 100% 
     }
 
     main h2 strong {
