@@ -204,6 +204,16 @@ website:    http://blankenship.xyz
         min-height: 6em;
    }
 
+   button {
+        background: #fbcd09;
+        color: #263030;
+        font: 700 1rem/1rem futura-pt, sans-serif;
+        letter-spacing: 2px;
+        padding: 1rem 0;
+        text-transform: uppercase;
+        width: 100%;
+   }
+
 /* SECTION -- DEM GRIDS */
 
     main {
