@@ -169,7 +169,6 @@ website:    http://blankenship.xyz
         font: 400 2.5rem/2.75rem miller-text, serif;
     }
 
-    form p,
     ul#services li {
         border-bottom: 1px solid #384443;
         padding: 1.5rem 0;
@@ -181,8 +180,8 @@ website:    http://blankenship.xyz
     }
 
    form p {
+        color: #ada78e;
         font: 700 1.2rem/1.2rem futura-pt, sans-serif;
-        margin-bottom: 1.2em;
    }
 
    input {
@@ -191,6 +190,7 @@ website:    http://blankenship.xyz
         display: block;
         font: 400 1.2rem/1.2rem futura-pt, sans-serif;
         height: 2.75rem;
+        margin-top: 1.2em;
         width: 100%;
    }
 
