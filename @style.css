@@ -112,12 +112,12 @@ website:    http://blankenship.xyz
 
     h2 {
         color: #ada78e;
-        font: 400 2.5rem/2.9rem miller-text, serif;
+        font: 400 2.5rem/3rem miller-text, serif;
    }
 
     main h2 { 
         margin-left: 1em;
-        max-width: 70% 
+        max-width: 65% 
     }
 
     main h2 strong {
