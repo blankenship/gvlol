@@ -75,7 +75,7 @@ website:    http://blankenship.xyz
     h1 {
         color: #f3efe4;
         font: 700 2rem/2rem futura-pt, sans-serif;
-        letter-spacing: 4px;
+        letter-spacing: 6px;
         text-transform: uppercase;
    }
 
@@ -84,7 +84,6 @@ website:    http://blankenship.xyz
         display: block;
         font: 400 4rem/4rem  maple-web, sans-serif; 
         letter-spacing: 4px;
-        margin-top: 2em;
    }
 
     nav {
@@ -92,7 +91,7 @@ website:    http://blankenship.xyz
         display: block;
         font: 700 1rem/1rem futura-pt, sans-serif;
         letter-spacing: 4px;
-        padding-bottom: 2em;
+        padding-bottom: 4em;
         text-align: center;
         text-transform: uppercase;
     }
