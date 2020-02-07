@@ -160,6 +160,17 @@ website:    http://blankenship.xyz
         text-align: left; 
     }
 
+
+/* -- ABOUT -- */
+
+#about {
+    background-color: ##ada78e;
+}
+
+
+
+/* -- SERVICES -- */
+
     ul#services {
         margin-bottom: 6rem;
     }
