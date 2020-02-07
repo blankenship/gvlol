@@ -72,16 +72,18 @@ website:    http://blankenship.xyz
 /* TYPOGRAPHY */
 
     h1 {
-        color: #f3efe4;
-        font: 700 2rem/2rem futura-pt, sans-serif;
+        color: #fbcd09;
+        font: 700 1.5rem/1.5rem futura-pt, sans-serif;
+        letter-spacing: 3px;
         text-transform: uppercase;
    }
 
     h1 span {
         color: #fcee21;
         display: block;
-        font: 400 2.5rem/2.5rem  maple-web, sans-serif; 
-    }
+        font: 400 3rem/3rem  maple-web, sans-serif; 
+        letter-spacing: 3px;
+   }
 
     nav {
         display: block;
