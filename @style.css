@@ -144,9 +144,13 @@ website:    http://blankenship.xyz
         font: 400 1.3rem/1.8rem miller-text, serif;
     }
 
-    footer {
+    footer p {
         color: #ada78e;
         font: 400 2.5rem/2.75rem miller-text, serif;
+    }
+
+    footer p:last-of-type {
+        font: 700 1rem/1rem futura-pt, sans-serif;
     }
 
     div h3 { 
