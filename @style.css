@@ -125,7 +125,7 @@ website:    http://blankenship.xyz
 
     h4 {
         color: #384443;
-        font: 700 2rem/2rem futura-pt, sans-serif;
+        font: 700 1rem/1rem futura-pt, sans-serif;
         letter-spacing: 2px;
         text-transform: uppercase;
    }
@@ -172,6 +172,7 @@ website:    http://blankenship.xyz
      }
 
     figure.hero { 
+        border: 2em solid #ada78e;
         margin: 0 auto 1rem;
         width: 80%;
     }
