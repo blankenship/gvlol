@@ -58,6 +58,8 @@ website:    http://blankenship.xyz
     a:hover { 
     }
 
+    ul,
+    li { list-style-type: none; }
 
 /* HEADER */
 
@@ -82,8 +84,18 @@ website:    http://blankenship.xyz
     }
 
     nav {
+        display: block;
         font: 700 2rem/2rem futura-pt, sans-serif;
+        letter-spacing: 2px;
+        text-transform: uppercase;
     }
+
+    h2 {
+        color: #384443;
+        font: 700 2rem/2rem futura-pt, sans-serif;
+        letter-spacing: 2px;
+        text-transform: uppercase;
+   }
 
     p {
         font: 400 1.3rem/1.8rem miller-text, serif;
