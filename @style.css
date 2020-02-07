@@ -190,6 +190,7 @@ website:    http://blankenship.xyz
 
    form input {
         display: block;
+        width: 100%;
    }
 
 /* SECTION -- DEM GRIDS */
