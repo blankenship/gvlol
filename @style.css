@@ -271,6 +271,16 @@ section#about {
     padding: 5em;
 }
 
+section#about h3 {
+    margin: 0 auto;
+    text-align: center;
+}
+
+section#about {
+    text-align: justify;
+    width: 60%;
+}
+
 
 /* -- FOOTER -- */
 
