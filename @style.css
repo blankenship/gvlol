@@ -179,7 +179,7 @@ website:    http://blankenship.xyz
     }
 
     main {
-        background-image: url(https://www.stickpng.com/assets/images/580b585b2edbce24c47b23fa.png);
+        background: url(https://www.stickpng.com/assets/images/580b585b2edbce24c47b23fa.png) center center no-repeat;
         margin: 0 auto;
     }
 
