@@ -121,6 +121,7 @@ website:    http://blankenship.xyz
     }
 
     main h2 strong {
+        color: #f3efe4;
         font: 700 1.8rem/1.8rem futura-pt, sans-serif;
         letter-spacing: 2px;
         text-transform: uppercase;
@@ -129,10 +130,8 @@ website:    http://blankenship.xyz
     main h2 a {
         border-bottom: 3px solid #fbcd09;
         color: #fbcd09;
-        font: 700 1.75rem/1.75rem futura-pt, sans-serif;
-        letter-spacing: 2px;
+        font-style: italic;
         padding-bottom: 3px;
-        text-transform: uppercase;
     }
 
     h3 {
