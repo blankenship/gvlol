@@ -333,12 +333,12 @@ section#about p {
    }
 
     main h2 { 
-        margin-left: 1em;
-        max-width: 90% 
+        margin: 0 auto;
+        width: 90% 
     }
 
     main h2 strong {
-        font: 700 .8rem/.8rem futura-pt, sans-serif;
+        font: 700 1rem/1rem futura-pt, sans-serif;
     }
 
     h4 {
