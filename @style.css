@@ -188,7 +188,7 @@ website:    http://blankenship.xyz
         font: 700 1rem/1rem futura-pt, sans-serif;
    }
 
-   form input {
+   form {
         display: block;
         width: 100%;
    }
