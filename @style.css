@@ -68,38 +68,25 @@ website:    http://blankenship.xyz
 /* HEADER */
 
     header {
-        background-color: #eee;
+        background-color: #1b1464;
         margin: 0 auto;
         padding: 4em 0 8em;
    }
 
     h1 {
-        color: #393939;
+        color: #fcee21;
         display: block;
-        font: 400 2.5rem/2.5rem "fakir-small-caps-new", serif; 
-        text-shadow: 1px 1px #fff;
+        font: 400 2.5rem/2.5rem -apple-system-ui-serif, ui-serif, serif; 
+ 		font-family: 
+       	text-shadow: 1px 1px #fff;
         padding-left: 1em;
     }
 
+    h1::first-line { color: #fff; }
+
     header a {
-        color: #393939;
-    }
-
-    header nav ul {
-        color: #393939;
-        font: 400 1.5rem/1.5rem "covik-sans", sans-serif;
-        list-style-type: none;
-        text-align: left;
-        padding-left: 4em;
-   }
-
-    header nav ul li {
-        display: block;
-        margin-bottom: .5em;
-    }
-
-    header nav ul li:before {
-        content: '';
+        color: #fcee21;
+        border-bottom: 2px solid #2e3192;
     }
 
 /* TYPOGRAPHY */
