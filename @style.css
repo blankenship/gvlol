@@ -191,15 +191,16 @@ website:    http://blankenship.xyz
     #quilt {
         background-color: #053052;
         display: grid;
-        grid-template-columns: 50% 50%;
+        grid-template-columns: 50% 40%;
+        grid-gap: 10%;
         margin: 0 auto;
         padding: 5em;
     }
 
-    #quilt img:nth-child(1) { margin-top: 5rem; width: 80% }
-    #quilt img:nth-child(2) { width: 80% }
-    #quilt img:nth-child(3) { margin-top: -5rem; width: 85% }
-    #quilt img:nth-child(4) { margin-top: 5rem; width: 75%; }
+    #quilt img:nth-child(1) { margin-top: 5em; width: 100% }
+    #quilt img:nth-child(2) { margin-top: -10em; width: 100% }
+    #quilt img:nth-child(3) { margin-top: -5em; width: 100% }
+    #quilt img:nth-child(4) { margin-top: 5em; width: 100%; }
 
     
 /* WEE SCREENS */
