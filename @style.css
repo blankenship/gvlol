@@ -181,11 +181,15 @@ website:    http://blankenship.xyz
     }
 
    form p {
-        font: 700 1rem/1rem futura-pt, sans-serif;
+        font: 700 1.2rem/1.2rem futura-pt, sans-serif;
+        margin-bottom: 1.2em;
    }
 
    input {
+        background-color: #f3efe4;
+        color: #263030;
         display: block;
+        font: 400 1.2rem/1.2rem futura-pt, sans-serif;
         height: 2.75rem;
         width: 100%;
    }
