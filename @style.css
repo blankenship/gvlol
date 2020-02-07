@@ -274,11 +274,12 @@ section#about {
 section#about h3 {
     font: 700 3rem/3rem futura-pt, sans-serif;
     letter-spacing: 2px;
-    margin: 4em auto;
+    margin: 2em auto;
     text-align: center;
 }
 
 section#about p {
+    margin: 0 auto;
     text-align: justify;
     width: 60%;
 }
