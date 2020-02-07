@@ -254,7 +254,7 @@ website:    http://blankenship.xyz
         display: grid;
         grid-template-columns: 45% 45%;
         grid-gap: 10%;
-        margin: 0 auto 5em;
+        margin: 0 auto;
         padding: 5em;
     }
 
