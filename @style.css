@@ -120,10 +120,14 @@ website:    http://blankenship.xyz
         max-width: 70% 
     }
 
+    main h2 strong {
+        font: 700 1.75rem/1.75rem futura-pt, sans-serif;
+    }
+
     main h2 a {
         border-bottom: 3px solid #fbcd09;
         color: #fbcd09;
-        font: 700 1.5rem/1.5rem futura-pt, sans-serif;
+        font: 700 1.75rem/1.75rem futura-pt, sans-serif;
         letter-spacing: 2px;
         padding-bottom: 3px;
         text-transform: uppercase;
