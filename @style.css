@@ -200,7 +200,7 @@ website:    http://blankenship.xyz
         display: grid;
         grid-template-columns: 45% 45%;
         grid-gap: 10%;      
-        margin: 5rem auto;
+        margin: 10rem auto;
         width: 80%;
     }
 
