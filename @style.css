@@ -164,10 +164,6 @@ website:    http://blankenship.xyz
         margin-bottom: 6rem;
     }
 
-    input {
-        height: 2.75rem;
-    }
-
     ul#services {
         color: #ada78e;
         font: 400 2.5rem/2.75rem miller-text, serif;
@@ -188,8 +184,9 @@ website:    http://blankenship.xyz
         font: 700 1rem/1rem futura-pt, sans-serif;
    }
 
-   form {
+   input {
         display: block;
+        height: 2.75rem;
         width: 100%;
    }
 
