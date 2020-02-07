@@ -91,7 +91,8 @@ website:    http://blankenship.xyz
         display: block;
         font: 700 1rem/1rem futura-pt, sans-serif;
         letter-spacing: 4px;
-        padding-bottom: 4em;
+        margin-bottom: 4em;
+        padding-bottom: 2em;
         text-align: center;
         text-transform: uppercase;
     }
@@ -126,6 +127,7 @@ website:    http://blankenship.xyz
         color: #384443;
         font: 700 1rem/1rem futura-pt, sans-serif;
         letter-spacing: 2px;
+        margin-bottom: 2em;
         text-transform: uppercase;
    }
 
