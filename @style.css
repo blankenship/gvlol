@@ -154,6 +154,10 @@ website:    http://blankenship.xyz
         margin-bottom: 6rem;
     }
 
+    input {
+        height: 2.75rem;
+    }
+    
     form p,
     ul#services {
         color: #ada78e;
