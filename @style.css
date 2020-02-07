@@ -310,7 +310,7 @@ section#about p {
 
 /* WEE SCREENS */
 
-        @media (min-width: 100px) and (max-width: 800px) {
+@media (min-width: 100px) and (max-width: 900px) {
 
     figure.hero { 
         border: none 0;
@@ -345,5 +345,4 @@ section#about p {
         width: 90%;
     }
        
-
-        }
+}
