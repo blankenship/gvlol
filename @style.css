@@ -216,9 +216,9 @@ website:    http://blankenship.xyz
     }
 
     #quilt {
-        background-color: #053052;
+        background-color: #263030;
         display: grid;
-        grid-template-columns: 50% 40%;
+        grid-template-columns: 45% 45%;
         grid-gap: 10%;
         margin: 0 auto;
         padding: 5em;
