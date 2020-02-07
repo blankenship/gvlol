@@ -179,7 +179,6 @@ website:    http://blankenship.xyz
     }
 
     main {
-        background: url(https://www.stickpng.com/assets/images/580b585b2edbce24c47b23fa.png) center bottom no-repeat;
         margin: 4em auto 6em;
     }
 
@@ -197,34 +196,10 @@ website:    http://blankenship.xyz
         padding: 5em;
     }
 
-    #quilt img { 
-        position: relative;
-    }
-
-    #quilt img:before {
-        z-index: -1;
-        position: absolute;
-        content: "";
-        bottom: 15px;
-        left: 10px;
-        width: 50%;
-        top: 80%;
-        max-width:300px;
-        background: #777;
-        -webkit-box-shadow: 0 15px 10px #777;
-        -moz-box-shadow: 0 15px 10px #777;
-        box-shadow: 0 15px 10px #777;
-        -webkit-transform: rotate(-3deg);
-        -moz-transform: rotate(-3deg);
-        -o-transform: rotate(-3deg);
-        -ms-transform: rotate(-3deg);
-        transform: rotate(-3deg);
-    }
-
     #quilt img:nth-child(1) { margin-top: 5em; width: 100% }
     #quilt img:nth-child(2) { margin-top: -10em; width: 100% }
-    #quilt img:nth-child(3) { margin-top: -2.5em; width: 80% }
-    #quilt img:nth-child(4) { margin-top: 2.5em; width: 100%; }
+    #quilt img:nth-child(3) { margin: -2.5em 0 0 20%; width: 80% }
+    #quilt img:nth-child(4) { width: 100%; }
 
     
 /* WEE SCREENS */
