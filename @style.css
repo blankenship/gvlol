@@ -145,6 +145,11 @@ website:    http://blankenship.xyz
         text-indent: 2em;
     }
 
+
+    .dos {
+        margin: 5rem auto;
+    }
+    
     div h3 { 
         margin: 0 0 2.75rem 0;
         text-align: left; 
