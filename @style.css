@@ -179,6 +179,10 @@ website:    http://blankenship.xyz
         border-top: 1px solid #384443;
     }
 
+    form {
+        padding-top: 1.2em;
+    }
+    
    form p {
         color: #ada78e;
         font: 700 1.2rem/1.2rem futura-pt, sans-serif;
@@ -194,6 +198,10 @@ website:    http://blankenship.xyz
         margin: 1.2em 0;
         padding: .5em;
         width: 100%;
+   }
+
+   textarea {
+        min-height: 6em;
    }
 
 /* SECTION -- DEM GRIDS */
