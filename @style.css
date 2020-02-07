@@ -152,7 +152,7 @@ website:    http://blankenship.xyz
 
     ul#services li {
         border-bottom: 1px solid #ada78e;
-        padding-bottom: 2.75rem;
+        padding: 1.5rem 0;
     }
 
 /* SECTION -- DEM GRIDS */
@@ -168,7 +168,9 @@ website:    http://blankenship.xyz
 
     .dos {
         display: grid;
-        grid-template-columns: 50% 50%;
+        grid-template-columns: 50% 50%;      
+        margin: 0 auto;  
+        width: 80%;
     }
 
     figure img { 
