@@ -180,9 +180,12 @@ website:    http://blankenship.xyz
     }
 
    form  {
+        padding-top: 1.2em;
+   }
+
+   form p {
         color: #ada78e;
         font: 700 1.2rem/1.2rem futura-pt, sans-serif;
-        padding-top: 1.2em;
    }
 
    input,
@@ -204,7 +207,7 @@ website:    http://blankenship.xyz
    button {
         background: #fbcd09;
         border: none 0;
-        border-radius: 100%;
+        border-radius: 2rem;
         color: #263030;
         font: 700 1rem/1rem futura-pt, sans-serif;
         letter-spacing: 2px;
