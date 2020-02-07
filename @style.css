@@ -157,12 +157,12 @@ website:    http://blankenship.xyz
     }
 
     ul#services li {
-        border-bottom: 1px solid #f3efe4;
+        border-bottom: 1px solid #384443;
         padding: 1.5rem 0;
     }
 
     ul#services li:first-of-type {
-        border-top: 1px solid #f3efe4;
+        border-top: 1px solid #384443;
     }
 
 /* SECTION -- DEM GRIDS */
