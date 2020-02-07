@@ -84,6 +84,7 @@ website:    http://blankenship.xyz
         display: block;
         font: 400 4rem/4rem  maple-web, sans-serif; 
         letter-spacing: 4px;
+        margin-bottom: 1em;
    }
 
     nav {
