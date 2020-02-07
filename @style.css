@@ -145,11 +145,6 @@ website:    http://blankenship.xyz
         text-indent: 2em;
     }
 
-
-    .dos {
-        margin: 5rem auto;
-    }
-
     div h3 { 
         margin: 0 0 2.75rem 0;
         text-align: left; 
@@ -183,8 +178,9 @@ website:    http://blankenship.xyz
 
     .dos {
         display: grid;
-        grid-template-columns: 50% 50%;      
-        margin: 0 auto;  
+        grid-template-columns: 45% 45%;
+        grid-gap: 10%;      
+        margin: 5rem auto;
         width: 80%;
     }
 
