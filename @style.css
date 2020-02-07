@@ -67,7 +67,7 @@ website:    http://blankenship.xyz
         margin: 0 auto;
         text-align: center;
         padding: 2em 0 6em;
-        width: 90%;
+        width: 100%;
    }
 
 /* TYPOGRAPHY */
@@ -87,6 +87,7 @@ website:    http://blankenship.xyz
    }
 
     nav {
+        background: #f3efe4;        
         border-bottom: 1px solid #ada78e;
         display: block;
         font: 700 1rem/1rem futura-pt, sans-serif;
