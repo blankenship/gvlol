@@ -68,6 +68,7 @@ website:    http://blankenship.xyz
         text-align: center;
         padding: 0 0 6em;
         width: 100%;
+        max-width: 1600px;
    }
 
 /* TYPOGRAPHY */
@@ -117,7 +118,8 @@ website:    http://blankenship.xyz
 
     main h2 { 
         margin-left: 1em;
-        max-width: 65% 
+        width: 65%;
+        max-width: 1600px;
     }
 
     main h2 strong {
@@ -217,6 +219,7 @@ website:    http://blankenship.xyz
     main {
         margin: 4em auto 8em;
         width: 80%;
+        max-width: 1600px;
     }
 
     section {
@@ -229,17 +232,20 @@ website:    http://blankenship.xyz
         grid-gap: 10%;      
         margin: 10rem auto;
         width: 80%;
+        max-width: 1600px;
     }
 
     figure img { 
         display: block;
         width: 100%;
+        max-width: 1600px;
      }
 
     figure.hero { 
         border: 2em solid #ada78e;
         margin: 0 auto 2em;
         width: 80%;
+        max-width: 1600px;
     }
 
     #quilt {
