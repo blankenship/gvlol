@@ -229,6 +229,8 @@ website:    http://blankenship.xyz
         max-width: 1600px;
     }
 
+    .center { text-align: center; }
+    
     section {
         margin: 0 auto;
     }
