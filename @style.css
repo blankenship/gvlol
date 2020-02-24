@@ -80,6 +80,7 @@ website:    http://blankenship.xyz
     nav ul {
         font: 700 1rem/1rem futura-pt, sans-serif;
         letter-spacing: 4px;
+        margin: 0 auto;
         text-align: center;
         text-transform: uppercase;
         max-width: 1600px;
