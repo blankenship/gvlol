@@ -395,10 +395,10 @@ section#about p {
         padding: 2em;
     }
 
-    #plot img:nth-child(1), 
-    #plot img:nth-child(2),
-    #plot img:nth-child(3),
-    #plot img:nth-child(4) {
+    #plot figure img:nth-child(1), 
+    #plot figure img:nth-child(2),
+    #plot figure img:nth-child(3),
+    #plot figure img:nth-child(4) {
         border: none 0;
         margin: 0 auto 2em; 
         width: 100%;
