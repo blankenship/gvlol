@@ -225,7 +225,7 @@ website:    http://blankenship.xyz
 
     main {
         margin: 4em auto 8em;
-        width: 80%;
+        width: 100%;
         max-width: 1600px;
     }
 
@@ -236,10 +236,10 @@ website:    http://blankenship.xyz
 
     #thanks main h2 { 
         margin-left: 0;
-        width: 100%;
-        max-width: 1600px;
+        width: 50%;
+        max-width: 800px;
     }
-    
+
     section {
         margin: 0 auto;
     }
