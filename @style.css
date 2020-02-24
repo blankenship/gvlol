@@ -229,7 +229,16 @@ website:    http://blankenship.xyz
         max-width: 1600px;
     }
 
-    .center { text-align: center; }
+    #thanks main { 
+        width: 80%;
+        text-align: center; 
+    }
+
+    #thanks main h2 { 
+        margin-left: 0;
+        width: 100%;
+        max-width: 1600px;
+    }
     
     section {
         margin: 0 auto;
