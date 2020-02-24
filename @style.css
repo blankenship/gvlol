@@ -70,6 +70,21 @@ website:    http://blankenship.xyz
         width: 100%;
    }
 
+     nav {
+        background: #f3efe4;        
+        display: block;
+        margin: 0 auto 6em;
+        padding: 2em 0;
+   }
+
+    nav ul {
+        font: 700 1rem/1rem futura-pt, sans-serif;
+        letter-spacing: 4px;
+        text-align: center;
+        text-transform: uppercase;
+        max-width: 1600px;
+    }
+
 /* TYPOGRAPHY */
 
     h1 {
@@ -86,12 +101,7 @@ website:    http://blankenship.xyz
         letter-spacing: 4px;
    }
 
-    nav {
-        display: block;
-        margin: 0 auto 6em;
-        padding: 2em 0;
-        max-width: 1600px;
-   }
+   
 
     nav a {
         color: #65685b;
@@ -101,15 +111,7 @@ website:    http://blankenship.xyz
         color: #384443;
     }
 
-    nav ul {
-        background: #f3efe4;        
-        font: 700 1rem/1rem futura-pt, sans-serif;
-        letter-spacing: 4px;
-        text-align: center;
-        text-transform: uppercase;
-        max-width: 1600px;
-    }
-
+  
     nav ul li {
         display: inline;
         padding: 0 2em;
