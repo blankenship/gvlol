@@ -278,7 +278,9 @@ website:    http://blankenship.xyz
 
 section#about {
     background-color: #ada78e;
+    margin: 0 auto;
     padding: 5em;
+    max-width: 1200px;
 }
 
 section#about h3 {
