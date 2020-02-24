@@ -229,17 +229,6 @@ website:    http://blankenship.xyz
         max-width: 1600px;
     }
 
-    #thanks main { 
-        width: 80%;
-        text-align: center; 
-    }
-
-    #thanks main h2 { 
-        margin: 0 auto;
-        width: 50%;
-        max-width: 800px;
-    }
-
     section {
         margin: 0 auto;
     }
@@ -330,6 +319,21 @@ section#about p {
         margin-top: 1rem;
         text-transform: uppercase;
     }
+
+/* THANKS PAGE */
+
+    #thanks main { 
+        width: 80%;
+        text-align: center; 
+    }
+
+    #thanks main h2 { 
+        margin: 0 auto;
+        width: 50%;
+        max-width: 800px;
+    }
+
+    #thanks h1 a {}
 
 /* WEE SCREENS */
 
