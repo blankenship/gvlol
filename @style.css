@@ -68,7 +68,6 @@ website:    http://blankenship.xyz
         text-align: center;
         padding: 0 0 6em;
         width: 100%;
-        max-width: 1600px;
    }
 
 /* TYPOGRAPHY */
@@ -96,7 +95,8 @@ website:    http://blankenship.xyz
         padding: 2em 0;
         text-align: center;
         text-transform: uppercase;
-    }
+        max-width: 1600px;
+   }
 
     nav a {
         color: #65685b;
@@ -250,17 +250,21 @@ website:    http://blankenship.xyz
 
     #quilt {
         background-color: #263030;
+        margin: 0 auto;
+    }
+
+    #quilt figure {
         display: grid;
         grid-template-columns: 45% 45%;
         grid-gap: 10%;
-        margin: 0 auto;
         padding: 5em;
+        max-width: 1600px;
     }
 
-    #quilt img:nth-child(1) { margin-top: 5em; width: 100% }
-    #quilt img:nth-child(2) { margin-top: -10em; width: 100% }
-    #quilt img:nth-child(3) { margin: -10em 0 0 20%; width: 80% }
-    #quilt img:nth-child(4) { margin: -2rem 0 0 -10%; width: 100%; }
+    #quilt figure img:nth-child(1) { margin-top: 5em; width: 100% }
+    #quilt figure img:nth-child(2) { margin-top: -10em; width: 100% }
+    #quilt figure img:nth-child(3) { margin: -10em 0 0 20%; width: 80% }
+    #quilt figure img:nth-child(4) { margin: -2rem 0 0 -10%; width: 100%; }
 
 
 /* -- ABOUT -- */
