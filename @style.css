@@ -239,7 +239,7 @@ nav ul {
     }
 
     .dos {
-        background: url(@images/flora.A.jpg) bottom right no-repeat;
+        /*background: url(@images/flora.A.jpg) bottom right no-repeat;*/
         display: grid;
         grid-template-columns: 45% 45%;
         grid-gap: 10%;      
