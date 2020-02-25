@@ -339,6 +339,12 @@ section#about p {
 
 @media (min-width: 100px) and (max-width: 900px) {
 
+
+    header {
+        border-top: 5px solid #f3efe4;
+        padding: 4em 0;
+    }
+
     h1 {
         font: 700 1.25rem/1.25rem futura-pt, sans-serif;
         letter-spacing: 3px;
