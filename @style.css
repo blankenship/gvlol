@@ -401,7 +401,7 @@ section#about p {
     #plot figure {
         display: block;
         margin: 0 auto;
-        padding: 2em;
+        padding: 10vw 0;
     }
 
     #plot figure img:nth-child(1), 
