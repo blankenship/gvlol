@@ -371,13 +371,13 @@ section#about p {
    }
 
     main {
-        padding: 2em;
+        margin: 2em auto 2.5em;
         width: 100%;
     }
 
     main h2 { 
         margin: 0 auto;
-        width: 90% 
+        padding: 0 2em;
     }
 
     main h2 strong {
