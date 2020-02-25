@@ -341,18 +341,18 @@ section#about p {
 
 
     header {
-        border-top: 5px solid #f3efe4;
+        border-top: 10px solid #f3efe4;
         padding: 4em 0;
     }
 
     h1 {
-        font: 700 1.25rem/1.25rem futura-pt, sans-serif;
+        font: 700 1.5rem/1.5rem futura-pt, sans-serif;
         letter-spacing: 3px;
     }
 
     h1 span {
         display: block;
-        font: 400 2.5rem/2.5rem  maple-web, sans-serif; 
+        font: 400 2.75rem/2.75rem  maple-web, sans-serif; 
         letter-spacing: 2px;
    }
 
