@@ -346,13 +346,13 @@ section#about p {
     }
 
     h1 {
-        font: 700 1.5rem/1.5rem futura-pt, sans-serif;
+        font: 700 2rem/2rem futura-pt, sans-serif;
         letter-spacing: 3px;
     }
 
     h1 span {
         display: block;
-        font: 400 2.75rem/2.75rem  maple-web, sans-serif; 
+        font: 400 3rem/3rem  maple-web, sans-serif; 
         letter-spacing: 2px;
    }
 
@@ -385,7 +385,7 @@ section#about p {
     }
 
     h4 {
-        font: 700 .5rem/.5rem futura-pt, sans-serif;
+        font: 700 1rem/1rem futura-pt, sans-serif;
     }
 
     p {
