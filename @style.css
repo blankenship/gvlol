@@ -66,13 +66,13 @@ website:    http://blankenship.xyz
 header {
 	margin: 0 auto;
 	text-align: center;
-	padding: 0 0 6em;
+	padding: 0 0 2em;
 	width: 100%;
 }
 
 header img { 
-	margin: 1em auto;
-	width: 20vw; 
+	margin: 2em auto;
+	width: 10vw; 
 }
 
 nav {
