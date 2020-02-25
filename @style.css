@@ -371,7 +371,7 @@ section#about p {
    }
 
     main {
-        margin: 2em auto 2.5em;
+        padding: 2em;
         width: 100%;
     }
 
