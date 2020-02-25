@@ -404,6 +404,11 @@ section#about p {
         width: 100%;
     }
 
+
+    figure img { 
+        max-width: 100%;
+     }
+
     .dos {
         display: block;      
         margin: 5rem auto;
