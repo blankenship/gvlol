@@ -409,6 +409,9 @@ section#about p {
         width: 100%;
     }
 
+    #plot figure img:nth-child(4) {
+        margin-bottom: 0; 
+    }
 
     figure img { 
         max-width: 100%;
