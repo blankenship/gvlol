@@ -371,8 +371,8 @@ section#about p {
    }
 
     main {
-        margin: 2em auto 4em;
-        width: 90%;
+        margin: 2em auto 2.5em;
+        width: 100%;
     }
 
     main h2 { 
@@ -439,6 +439,10 @@ section#about p {
     section#about p {
         margin: 0 auto 1.4em;
         width: 90%;
+    }
+
+    ul#services {
+        font: 400 2rem/2.25rem miller-text, serif;
     }
 
 }
