@@ -447,6 +447,19 @@ section#about p {
         font: 400 2rem/2.25rem miller-text, serif;
     }
 
+    footer {
+        padding: 3em 0;
+    }
+
+    footer p {
+        font: normal 700 1.5rem/2rem futura-pt, sans-serif;
+    }
+
+    footer p:last-of-type {
+        font: normal 700 .75rem/.75rem futura-pt, sans-serif;
+        margin-top: 2rem;
+    }
+
 }
 
 /* -- Fin. -- */
