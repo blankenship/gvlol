@@ -392,6 +392,11 @@ section#about p {
         background-color: #263030;
         display: block;
         margin: 0 auto;
+    }
+
+    #plot figure {
+        display: block;
+        margin: 0 auto;
         padding: 2em;
     }
 
