@@ -340,20 +340,18 @@ section#about p {
 @media (min-width: 100px) and (max-width: 900px) {
 
     h1 {
-        font: 700 1rem/1rem futura-pt, sans-serif;
+        font: 700 1.25rem/1.25rem futura-pt, sans-serif;
         letter-spacing: 3px;
     }
 
     h1 span {
         display: block;
-        font: 400 2.25rem/2.5rem  maple-web, sans-serif; 
+        font: 400 2.5rem/2.5rem  maple-web, sans-serif; 
         letter-spacing: 2px;
    }
 
     nav {
-        font: 700 .5rem/.5rem futura-pt, sans-serif;
-        margin-bottom: 3em;
-        padding: 1em 0;
+        display:none;
     }
 
     figure.hero { 
